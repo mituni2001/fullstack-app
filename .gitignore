@@ -1,3 +1,4 @@
 BACKEND/.env
 node_modules/
 ReactNative/Edu-pro-app/node_modules/
+.env
